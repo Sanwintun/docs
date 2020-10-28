@@ -1,4 +1,4 @@
-name: 60 Days Stale Check
+
 on:
   schedule:
   - cron: "40 16 * * *"  # Run each day at 16:40 UTC / 8:40 PST
